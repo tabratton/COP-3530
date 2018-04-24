@@ -175,7 +175,7 @@ public class DynamicList {
   /**
    * Concatenates a given list to the end of the list the method is called on.
    *
-   * @param secondList The DynamicLise to be concatenated.
+   * @param secondList The DynamicList to be concatenated.
    */
   public void concat(DynamicList secondList) {
     DynamicNode tempNode = secondList.list;
